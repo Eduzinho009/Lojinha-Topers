@@ -10,10 +10,6 @@ body{
     padding: 20px;
 }
 
-#perfil{
-
-}
-
 .wrap{
     display: flex;
     flex-direction: row;
